@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-This repository contains my script and code book to Coursera's Getting and Cleaning Data -course project.
+This repository contains my script (run_analysis.R) and code book (CODEBOOK.md) to Coursera's Getting and Cleaning Data -course project.
 
 Aim of the project is to merge data provided in a given url and create a tidy dataset from the given data. The final tidy dataset contains  only measurements on the mean and standard deviation for each measurement in the original data.
 
