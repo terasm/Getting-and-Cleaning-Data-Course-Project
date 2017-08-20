@@ -1,4 +1,6 @@
+Variables:
 
+Variables includes subject, which informs the number of the subject of the research and activity, which informs the activity the subject was performing during the measurements. Other variables are mean and std of measurements variables presented in features_info.txt file in original data. 
 
 "subject"                           "activity"                          "time.bodyacc.mean.x"              
 "time.bodyacc.mean.y"               "time.bodyacc.mean.z"               "time.bodyacc.std.x"               
